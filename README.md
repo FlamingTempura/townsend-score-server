@@ -9,7 +9,7 @@ node townsend.js
 The postcode must be provided without spaces. Case does not matter.
 
 ```
-GET http://localhost:3092/so143ja
+GET http://localhost:3420/so143ja
 => { postcode: "SO143JA", lsoa: "Southampton 029C", townsend: 1.938381642 }
 ```
 

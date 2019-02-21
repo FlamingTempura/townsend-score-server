@@ -53,4 +53,4 @@ http.createServer(async (req, res) => {
 		res.writeHead(200, { 'Content-Type': 'application/json' });
 		res.end(JSON.stringify({ postcode, lsoa, townsend }));
 	})
-	.listen(3200, 'localhost');
+	.listen(3420, 'localhost');
