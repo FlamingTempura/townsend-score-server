@@ -1,0 +1,22 @@
+{
+  "name": "townsend",
+  "version": "1.0.0",
+  "description": "This service looks up the townsend deprivation score for a given UK postcode. This can be used for QRisk3.",
+  "main": "townsend.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlamingTempura/townsend-score-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlamingTempura/townsend-score-server/issues"
+  },
+  "homepage": "https://github.com/FlamingTempura/townsend-score-server#readme",
+  "devDependencies": {
+    "tap": "^12.5.3"
+  }
+}
